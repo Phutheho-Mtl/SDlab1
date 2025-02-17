@@ -1,0 +1,1 @@
+In the assignment,I managed to create my 1st ever Git repository and worked with the basic functionalities.Made a few commits which included working on the files required sequentially and ensuring that I stage and commit each file indivisually so that I get a grasp of the commands and well as tracking the changes they make in the repository.
